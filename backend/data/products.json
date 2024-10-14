@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Men's Classic Leather Loafers",
+      "price": 3499.99,
+      "description": "Elegant leather loafers with a smooth finish, perfect for formal occasions and casual settings alike.",
+      "ratings": "4.5",
+      "images": [
+        {
+          "image": "images/mens-classic-loafers.jpg"
+        }
+      ],
+      "category": "Mens",
+      "seller": "Bharat Footwear",
+      "stock": 15,
+      "numOfRewies": 8,
+      "reviews": [
+        {
+          "name": "John Doe",
+          "rating": "5",
+          "comment": "These loafers are incredibly comfortable and look great with formal outfits."
+        },
+        {
+          "name": "Raj Malhotra",
+          "rating": "4",
+          "comment": "Great design but they run a little tight."
+        }
+      ],
+      "createdAt": "2023-09-12T12:00:00.000Z"
+    },
+    {
+      "name": "Women's Casual Sneakers",
+      "price": 1999.00,
+      "description": "Lightweight and comfortable sneakers for everyday casual wear.",
+      "ratings": "4.2",
+      "images": [
+        {
+          "image": "images/womens-casual-sneakers.jpg"
+        }
+      ],
+      "category": "Womens",
+      "seller": "New Fashion Traders",
+      "stock": 10,
+      "numOfRewies": 5,
+      "reviews": [
+        {
+          "name": "Alice Sharma",
+          "rating": "4",
+          "comment": "Very comfortable, but would have preferred more color options."
+        },
+        {
+          "name": "Priya Kumar",
+          "rating": "5",
+          "comment": "Perfect for daily walks! Lightweight and stylish."
+        }
+      ],
+      "createdAt": "2024-03-25T14:30:00.000Z"
+    },
+    {
+      "name": "Kids' Sports Running Shoes",
+      "price": 1299.99,
+      "description": "Durable and flexible running shoes designed for kids who love to stay active.",
+      "ratings": "4.8",
+      "images": [
+        {
+          "image": "images/kids-sports-shoes.jpg"
+        }
+      ],
+      "category": "Kids",
+      "seller": "Bharat Kids Footwear",
+      "stock": 25,
+      "numOfRewies": 12,
+      "reviews": [
+        {
+          "name": "Ravi Singh",
+          "rating": "5",
+          "comment": "My son loves these shoes! Perfect for school and play."
+        },
+        {
+          "name": "Kavita Patel",
+          "rating": "4",
+          "comment": "Very durable but the color faded a bit after washing."
+        }
+      ],
+      "createdAt": "2024-02-11T09:00:00.000Z"
+    },
+    {
+      "name": "Men's Outdoor Trekking Boots",
+      "price": 4599.50,
+      "description": "Rugged and durable trekking boots for outdoor enthusiasts. Perfect for hiking and rough terrains.",
+      "ratings": "4.9",
+      "images": [
+        {
+          "image": "images/mens-trekking-boots.jpg"
+        }
+      ],
+      "category": "Mens",
+      "seller": "Adventure Gear Co.",
+      "stock": 5,
+      "numOfRewies": 20,
+      "reviews": [
+        {
+          "name": "Suresh Nair",
+          "rating": "5",
+          "comment": "Absolutely love these boots! Great grip and comfort during long treks."
+        },
+        {
+          "name": "Vinay Gupta",
+          "rating": "4",
+          "comment": "Very sturdy, but took a bit longer to break in."
+        }
+      ],
+      "createdAt": "2023-11-05T08:45:00.000Z"
+    },
+    {
+      "name": "Women's Stylish Heels",
+      "price": 2999.75,
+      "description": "Elegant and stylish heels with a cushioned sole, perfect for formal events or casual outings.",
+      "ratings": "4.3",
+      "images": [
+        {
+          "image": "images/womens-stylish-heels.jpg"
+        }
+      ],
+      "category": "Womens",
+      "seller": "Fashion Footwear",
+      "stock": 8,
+      "numOfRewies": 7,
+      "reviews": [
+        {
+          "name": "Meera Jain",
+          "rating": "5",
+          "comment": "Beautiful heels! Very comfortable to wear for long hours."
+        },
+        {
+          "name": "Simran Verma",
+          "rating": "3",
+          "comment": "Looks good but not as comfortable as expected."
+        }
+      ],
+      "createdAt": "2024-01-15T16:00:00.000Z"
+    }
+  ]
+  
