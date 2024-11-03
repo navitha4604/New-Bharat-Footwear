@@ -27,3 +27,4 @@ router.route("/admin/product/:id").put(isAuthenticatedUser, authorizeRoles('admi
 router.route("/admin/product/:id").delete(isAuthenticatedUser, authorizeRoles('admin'), deleteProduct);
 
 module.exports = router;
+

@@ -29,18 +29,7 @@
       "seller": "New Fashion Traders",
       "stock": 10,
       "numOfRewies": 5,
-      "reviews": [
-        {
-          "name": "Alice Sharma",
-          "rating": "4",
-          "comment": "Very comfortable, but would have preferred more color options."
-        },
-        {
-          "name": "Priya Kumar",
-          "rating": "5",
-          "comment": "Perfect for daily walks! Lightweight and stylish."
-        }
-      ],
+      "reviews": [],
       "createdAt": "2024-03-25T14:30:00.000Z"
     },
     {
@@ -128,4 +117,5 @@
       "createdAt": "2024-01-15T16:00:00.000Z"
     }
   ]
+  
   
