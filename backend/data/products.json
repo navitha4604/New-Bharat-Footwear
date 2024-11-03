@@ -13,19 +13,7 @@
       "seller": "Bharat Footwear",
       "stock": 15,
       "numOfRewies": 8,
-      "reviews": [
-        {
-          "name": "John Doe",
-          "rating": "5",
-          "comment": "These loafers are incredibly comfortable and look great with formal outfits."
-        },
-        {
-          "name": "Raj Malhotra",
-          "rating": "4",
-          "comment": "Great design but they run a little tight."
-        }
-      ],
-      "createdAt": "2023-09-12T12:00:00.000Z"
+      "reviews": []
     },
     {
       "name": "Women's Casual Sneakers",
