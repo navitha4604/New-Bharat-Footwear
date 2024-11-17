@@ -1,0 +1,63 @@
+#banner-image {
+	padding-top: 75px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #f8f8f8;
+	background-position:center;
+	background-size: cover;
+	background-repeat: no-repeat;
+  -webkit-animation-name: background;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-direction: alternate;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+}
+@-webkit-keyframes background {
+  0% {
+    background-image: url('images/intro-img2.jpg');
+  }
+  33% {
+    background-image: url('images/banner.jpg');
+  }
+  100%{
+  	background-image:url('images/bg.jpg');
+  	opacity:0.9;
+  }
+}
+  
+
+#banner_content {
+	position: relative;
+	padding-top:4%;
+	padding-bottom: 6%;
+	margin: 12% auto;
+	max-width:700px;
+	max-height:400px;
+}
+#banner_content h1{
+		font-size:53px;
+		font-weight:300px;
+}
+#banner_content p{
+		font-size:30px;
+		font-weight:200px;
+}
+#banner_content:hover{
+	color:#3498db;
+}
+footer {
+	position: fixed;
+	padding: 10px 0;
+	text-align: center;
+	bottom: 0;
+	background-color: #101010;
+	color: #9d9d9d;
+	width: 100%;
+}
+.panel-margin {
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+.text-centre {
+	text-align: center;
+}
